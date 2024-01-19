@@ -35,7 +35,7 @@ window.title("Mensagem Automática")
 window.config(padx=20, pady=20)
 
 
-#Aqui adiciono o logo do CRPRS a janela tkinter
+#Aqui adiciono o logo a janela tkinter
 arquivo_foto = resource_filename(__name__,"logo.png")
 photo = PhotoImage(file = arquivo_foto) 
 logo = Label( window, image = photo, padx= 10, pady= 10).place(x = 300, y = 100) 

@@ -1,6 +1,6 @@
 # Mensagem-auto
 Uma aplicação desenvolvida em Python que permite automatizar o envio de mensagens por meio do WhatsApp.
-Contendo uma interface gráfica simples usando tkinter, permitindo que o usuário escolha um arquivo Excel contendo números de telefone e digite em Entry o texto que deseja enviar. 
+Contendo uma interface gráfica simples usando tkinter, permitindo que o usuário escolha um arquivo Excel contendo números de telefone e digite na caixa de texto o que deseja enviar. 
 
 
 ## 🚀 Tecnologias
